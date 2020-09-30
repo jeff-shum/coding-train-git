@@ -1,6 +1,7 @@
-Fruits
+Fruits & Veggies
 
 Apple
+Broccoli
 Durian
 Banana
 Papaya
